@@ -1,0 +1,10 @@
+input[type="file"] {
+  border-color: #0b5ed7;
+  color: #0b5ed7;
+}
+
+input[type="file"]::file-selector-button {
+  border-color: #0b5ed7;
+  background-color: #0b5ed7;
+  color: white;
+}
